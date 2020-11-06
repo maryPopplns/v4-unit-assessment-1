@@ -1,0 +1,159 @@
+#blue-background {
+  background-color: rgba(0, 255, 170, 0.555);
+  width: 100vw;
+  height: 80px;
+}
+
+#shapes-text {
+ padding-top: 30px;
+ padding-left: 15px;
+ font-family: serif;
+ font-size: 20px;
+ font-weight: bold;
+}
+
+.header-text {
+
+}
+
+#headers {
+ border: 1px;
+ border-style: dotted;
+ height: 200px;
+ width: auto
+}
+
+#purple {
+  border-style: solid;
+  border-color: red;
+  background-color: rgb(99, 1, 99);
+  height: 60px;
+  width: 120px;
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#blue {
+  border-bottom-style: outset;
+  border-right-style: outset;
+  background-color: blue;
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#pink {
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: rgba(223, 79, 139, 0.856);
+  height: 120px;
+  width: 120px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#circle1 {
+  background-color:#fff;
+  border:1px solid black;    
+  height:60px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:60px;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+#circle1 {
+  background-color:#fff;
+  border:1px solid black;    
+  height:50px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:50px;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+#circle2 {
+  background-color:#fff;
+  border:1px solid black;    
+  height:60px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width: 60px;
+  margin-left: 25px;
+}
+
+#circle3 {
+  background-color:#fff;
+  border:1px solid black;    
+  height:75px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:75px;
+  margin-left: 19px;
+}
+
+#tan-box {
+  background-color: rgba(209, 205, 150, 0.562);
+  height: 180px;
+  width: 180px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#green-circle {
+  background-color: green;
+  border:1px solid black;    
+  height:140px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:140px;
+}
+
+#red-box {
+  background-color: rgb(136, 24, 16);
+  height: 90px;
+  width: 90px;
+  border-style: solid;
+  border-width: 1px;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+#fish-tank {
+  margin-top: -1px;
+  margin-left: 15px;
+  color: white;
+  font-size: 13px;
+ }
+
+#blue-circle {
+  background-color: blue;   
+  height:70px;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  width:70px;
+}
+
+#fish {
+  height: 20px;
+  width: 20px;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
